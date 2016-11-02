@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "node demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"nodemon server.js\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rs2275/nodejs.git"
+  },
+  "keywords": [
+    "node1"
+  ],
+  "author": "raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rs2275/nodejs/issues"
+  },
+  "homepage": "https://github.com/rs2275/nodejs#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
